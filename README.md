@@ -1,2 +1,2 @@
 # TP500
-Entregas mestrado
+Entregas semanais do mestrado Inatel
