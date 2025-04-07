@@ -1,1 +1,1 @@
-Entrega impmentação.
+Entrega implementação Impl_Inicio_RIS_2.ipynb
